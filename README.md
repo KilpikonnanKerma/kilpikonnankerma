@@ -2,11 +2,23 @@
 
 Welcome to my Github profile. I have information about myself on my [portfolio](kilpikonnankerma.github.io/website)
 
-![KilpikonnanKerma's Stats](https://github-readme-stats.vercel.app/api?username=KilpikonnanKerma&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+### Here's a dragon:
 
-## Contact me
+   (  )   /\   _                 (     
+    \ |  (  \ ( \.(               )                      _____
+  \  \ \  `  `   ) \             (  ___                 / _   \
+ (_`    \+   . x  ( .\            \/   \____-----------/ (o)   \_
+- .-               \+  ;          (  O                           \____
+                          )        \_____________  `              \  /
+(__                +- .( -'.- <. - _  VVVVVVV VV V\                 \/
+(_____            ._._: <_ - <- _  (--  _AAAAAAA__A_/                  |
+  .    /./.+-  . .- /  +--  - .     \______________//_              \_______
+  (__ ' /x  / x _/ (                                  \___'          \     /
+ , x / ( '  . / .  /                                      |           \   /
+    /  /  _/ /    +                                      /              \/
+   '  (__/                                             /                  \
 
-- You can contact me via [email](mailto:rajalanico08@gmail.com)
+
 
 <!--
 **KilpikonnanKerma/kilpikonnankerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
