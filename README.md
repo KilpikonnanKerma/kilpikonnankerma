@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi I'm Nico!
+
+Welcome to my Github profile. I have information about myself on my [portfolio](kilpikonnankerma.github.io/website)
+
+![KilpikonnanKerma's Stats](https://github-readme-stats.vercel.app/api?username=KilpikonnanKerma&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## Contact me
+
+- You can contact me via [email](mailto:rajalanico08@gmail.com)
 
 <!--
 **KilpikonnanKerma/kilpikonnankerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
